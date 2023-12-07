@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pmobit
 - 👀 I’m interested in designing deep neural networks and AI designed systems
-- 🌱 I’m currently learning Blockchain 
-- 💞️ I’m looking to collaborate on health or manfacturing research projects
+- 🌱 I’m currently working with neuroscience precision health with DL/ML modeling 
+- 💞️ I’m looking to learn and collaborate with highly complex data 
 - 📫 How to reach me pmobit@gmail.com
 
 <!---
